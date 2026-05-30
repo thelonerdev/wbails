@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📦 TheLonerDev/wbails
+# 📦 thelonerdev/wbails
 
 <img src="https://i.ibb.co/WWZzMfF3/mitsuya-20250529-0001.jpg" alt="wbails" width="280" style="border-radius: 16px;" />
 
@@ -11,7 +11,7 @@
 
 <br/>
 
-[![npm](https://img.shields.io/badge/github:TheLonerDev%2Fwbails-CB3837?style=flat-square&logo=npm)](https://github.com/TheLonerDev/wbails)
+[![npm](https://img.shields.io/badge/github:thelonerdev%2Fwbails-CB3837?style=flat-square&logo=github)](https://github.com/thelonerdev/wbails)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Multi--Device-25D366?style=flat-square&logo=whatsapp)](https://whatsapp.com)
 [![Node.js](https://img.shields.io/badge/Node.js-Compatible-339933?style=flat-square&logo=node.js)](https://nodejs.org)
 [![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen?style=flat-square)](https://github.com/TheLonerDev/wbails)
