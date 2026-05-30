@@ -33,7 +33,7 @@ Add the following to your `package.json` dependencies:
 
 ```json
 "dependencies": {
-  "@whiskeysockets/baileys": "github:TheLonerDev/wbails"
+  "@whiskeysockets/baileys": "github:thelonerdev/wbails"
 }
 ```
 
