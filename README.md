@@ -2,7 +2,7 @@
 
 # 📦 TheLonerDev/wbails
 
-<img src="https://files.catbox.moe/1jr6zk.jpg" alt="wbails" width="280" style="border-radius: 16px;" />
+<img src="https://i.ibb.co/WWZzMfF3/mitsuya-20250529-0001.jpg" alt="wbails" width="280" style="border-radius: 16px;" />
 
 <br/>
 <br/>
@@ -88,7 +88,7 @@ const client = makeWASocket({
   // ...other options
 });
 
-const number = "628XXXXX";
+const number = "234XXXXX";
 
 // Standard pairing
 const code = await client.requestPairingCode(number.trim());
@@ -372,7 +372,7 @@ await client.statusMention(m.chat, {
   <tr>
     <td align="center">
       <a href="https://github.com/TheLonerDev">
-        <img src="https://files.catbox.moe/1jr6zk.jpg" width="90px" style="border-radius:50%;" alt="TheLonerDev"/>
+        <img src="https://i.ibb.co/WWZzMfF3/mitsuya-20250529-0001.jpg" width="90px" style="border-radius:50%;" alt="TheLonerDev"/>
         <br />
         <sub><b>TheLonerDev</b></sub>
       </a>
