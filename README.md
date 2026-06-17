@@ -514,7 +514,7 @@ await client.sendMessageMembers(
   <tr>
     <td align="center">
       <a href="https://github.com/TheLonerDev">
-        <img src="https://files.catbox.moe/1jr6zk.jpg" width="90" style="border-radius:50%;" />
+        <img src="https://files.catbox.moe/wnue26.jpg" width="90" style="border-radius:50%;" />
         <br/><br/>
         <b>TheLonerDev</b>
       </a>
