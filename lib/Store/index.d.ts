@@ -1,0 +1,10 @@
+export * from './make-cache-manager-store';
+export * from './make-in-memory-store';
+export * from './make-ordered-dictionary';
+export * from './object-repository';
+export * from './keyed-db';
+export { default as makeCacheManagerStore } from './make-cache-manager-store';
+export { default as makeInMemoryStore } from './make-in-memory-store';
+export { default as makeOrderedDictionary } from './make-ordered-dictionary';
+export { default as objectRepository } from './object-repository';
+export { default as keyedDB} from './keyed-db';
